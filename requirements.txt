@@ -1,0 +1,4 @@
+matplotlib==3.11.0
+pyThorlabsPM100x==0.27
+pyThorlabsPM100x==0.30
+pyvisa==1.16.2
