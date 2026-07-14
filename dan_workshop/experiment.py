@@ -43,7 +43,7 @@ fig.canvas.mpl_connect("key_press_event", on_key_press)
 # set the x and the y labels for the figure
 axis.set_ylabel("Power (mW)")
 axis.set_xlabel("Time (s)")
-axis.set_title("Currently reading laser power over time. Press q to q"
+axis.set_title("Currently reading laser power over time. Press q to  "
                "stop it.")
 axis.legend(loc="upper right")
 axis.grid(True)
