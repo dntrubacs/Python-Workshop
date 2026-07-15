@@ -649,3 +649,6 @@ MigrationBackup/
 oscar_workshop/*.lsf
 oscar_workshop/*.fsp
 oscar_workshop/*.csv
+
+oscar_workshop/*.mph
+oscar_workshop/*.mph.lock
