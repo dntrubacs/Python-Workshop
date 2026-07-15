@@ -643,3 +643,9 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,vs
+
+
+
+oscar_workshop/*.lsf
+oscar_workshop/*.fsp
+oscar_workshop/*.csv
