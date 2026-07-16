@@ -47,7 +47,7 @@ class PM100D:
                 powermeter (measured in nm).
         """
         # set the working wavelength
-        self.device.wavelength_0_polarization = wavelength
+        self.device.wavelength = wavelength
 
     def retrieve_average_power_reading(
         self, time_delay: float = 1, samples: int = 3
